@@ -2,3 +2,5 @@
 Exercice pour formation (peut être supprimé)
 
 Modification en local PC thierry
+
+Coucou deuis github
